@@ -42,5 +42,6 @@
         <module>../acs-tr069</module>
         <module>../acs-hms</module>
         <module>../acs-web</module>
+        <module>../acs-configserver</module>
     </modules>
 </project>
